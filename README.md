@@ -1,4 +1,4 @@
-# Mission Control AI - Global Solution 2026.1
+# Mission Control AI - ORBIMESH
 
 ## O Que o Projeto Faz
 Este é um sistema de monitoramento inteligente para controle operacional de uma missão espacial experimental desenvolvido em Python. O sistema simula dados de telemetria essenciais (temperatura, energia e comunicação), aplica lógica interna automatizada de tomada de decisão para contenção de danos e utiliza o modelo de linguagem Llama 3.2 1B (via Ollama) para gerar análises preditivas e relatórios críticos em tempo real.
