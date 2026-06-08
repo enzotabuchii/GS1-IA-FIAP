@@ -14,10 +14,10 @@ Este é um sistema de monitoramento inteligente para controle operacional de uma
 ## Demonstração (Prints do Sistema)
 
 ### 1. Sistema Operando em Condições Normais
-![Dados da missão](normal.png)
+![Dados da missão](assets/normal.png)
 
 ### 2. Alerta Crítico e Resposta da IA
-![Alerta crítico](critico.png)
+![Alerta crítico](assets/critico.png)
 
 ---
 
